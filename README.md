@@ -11,9 +11,9 @@
 Теперь, когда репозиторий привязан и отображается у вас в VS Code, переключитесь на него командой ```cd (имя репозитория)```, чтобы потом редактировать.
 
 Это команды, которые переносят отредактированную локально (в VS Code) информацию на Github:
-```git remote add origin https://github.com/Isch-ka/test.git```
-```git branch -M main```
-```git push -u origin main```
+* ```git remote add origin https://github.com/Isch-ka/test.git```
+* ```git branch -M main```
+* ```git push -u origin main```
 
 Это командф, которая перенесёт отредактированную на Github информацию в VS Code, а также сольёт всю информацию в единую:
-```git pull```
+* ```git pull```
